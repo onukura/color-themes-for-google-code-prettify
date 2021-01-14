@@ -37,7 +37,7 @@
   "devDependencies": {
     "autoprefixer": "^9.8.6",
     "browser-sync": "^2.11.1",
-    "css-mqpacker": "^4.0.1",
+    "css-mqpacker": "^7.0.0",
     "csswring": "^7.0.0",
     "del": "^2.2.0",
     "gh-pages": "^0.11.0",
