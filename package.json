@@ -35,7 +35,7 @@
     "node": ">=5.9.0"
   },
   "devDependencies": {
-    "autoprefixer": "^6.3.4",
+    "autoprefixer": "^9.8.6",
     "browser-sync": "^2.11.1",
     "css-mqpacker": "^4.0.1",
     "csswring": "^4.2.2",
