@@ -38,7 +38,7 @@
     "autoprefixer": "^6.3.4",
     "browser-sync": "^2.11.1",
     "css-mqpacker": "^4.0.1",
-    "csswring": "^4.2.2",
+    "csswring": "^7.0.0",
     "del": "^2.2.0",
     "gh-pages": "^0.11.0",
     "gulp": "github:gulpjs/gulp#4.0",
